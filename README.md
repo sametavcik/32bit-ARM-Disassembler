@@ -20,3 +20,26 @@
 
 ## Condition Instructions
 ![Adsız11](https://user-images.githubusercontent.com/65908597/193913543-8cf6f9f5-d90a-4ffe-87f1-451e30091f20.png)
+
+## INPUTS
+* Makine kodları 8 byte'lık hexadecimal ve '0x' kısmı atılmış şekilde girilmektedir.(örn: kod 0xE086500 ise E086500 şeklinde girilmeli)
+
+
+![Adsız12](https://user-images.githubusercontent.com/65908597/193915781-5f419106-b600-4e2a-b1ab-82f49a043e2a.png)
+
+## OUTPUTS
+
+![Adsız13](https://user-images.githubusercontent.com/65908597/193918476-82222ee4-654f-454a-adce-9b26d4e77678.png)
+
+# Data Processing Examples
+### Immediate Example
+
+
+![Adsız14](https://user-images.githubusercontent.com/65908597/193919977-a30a65fc-0756-4b32-93d5-2f4404e5f602.png)
+
+![Adsız15](https://user-images.githubusercontent.com/65908597/193920546-7f8599de-6db1-4735-be1e-2c8fe3b2b584.png)
+
+#### OUTPUTS
+
+![Adsız16](https://user-images.githubusercontent.com/65908597/193921029-17a38397-a73a-4337-8d7c-ce033cf3e75e.png)
+
