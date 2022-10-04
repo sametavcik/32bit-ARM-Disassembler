@@ -1,6 +1,6 @@
 # 32bit-ARM-Disassembler
 
-## Bu proje, 32 bitlik Makine kodunu belirli yönergeler dahilinde ARM Assembly diline çevirmeyi amaçlamaktadır.
+## Bu proje, 32 bitlik Makine kodunu belirli yönergeler dahilinde ARM Assembly diline çevirmeyi yani reverse engineering ile [Disassembler](https://en.wikipedia.org/wiki/Disassembler) yapmayı amaçlamaktadır.
 #### ARM Assembly dili tanıtımı
 * [arm-assembly.pdf](https://github.com/sametavcik/32bit-ARM-Disassembler/files/9710127/06.arm-assembly.pdf)
 * [machine-lang.pdf](https://github.com/sametavcik/32bit-ARM-Disassembler/files/9710133/07.machine-lang.pdf)
@@ -42,4 +42,20 @@
 #### OUTPUTS
 
 ![Adsız16](https://user-images.githubusercontent.com/65908597/193921029-17a38397-a73a-4337-8d7c-ce033cf3e75e.png)
+
+### Register Example
+
+![Adsız17](https://user-images.githubusercontent.com/65908597/193923378-df972ff2-ccfd-43f1-9808-626ac5ba799b.png)
+
+![Adsız18](https://user-images.githubusercontent.com/65908597/193924898-49b743ed-c160-4376-93ba-a87093c651a0.png)
+
+#### OUTPUTS
+
+![Adsız19](https://user-images.githubusercontent.com/65908597/193925030-1acb1899-fec2-49ca-85d4-e5791258ccbf.png)
+
+
+
+
+
+
 
