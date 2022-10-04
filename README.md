@@ -54,6 +54,16 @@
 ![Adsız19](https://user-images.githubusercontent.com/65908597/193925030-1acb1899-fec2-49ca-85d4-e5791258ccbf.png)
 
 
+### Register Shifted Register Example
+
+![Adsız21](https://user-images.githubusercontent.com/65908597/193928310-3d48b916-6703-4df9-a24e-832e41077e3c.png)
+
+
+![Adsız20](https://user-images.githubusercontent.com/65908597/193927820-555c0bfc-41f4-4097-90d0-c0e3b4f176f0.png)
+
+#### OUTPUTS
+![Adsız22](https://user-images.githubusercontent.com/65908597/193928589-ea189ffb-4a5e-4419-a02b-142d7103ad64.png)
+
 
 
 
