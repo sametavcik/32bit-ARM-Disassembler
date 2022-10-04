@@ -32,7 +32,8 @@
 ![Adsız13](https://user-images.githubusercontent.com/65908597/193918476-82222ee4-654f-454a-adce-9b26d4e77678.png)
 
 # Data Processing Examples
-### Immediate Example
+### 1-) Immediate Example
+***
 
 
 ![Adsız14](https://user-images.githubusercontent.com/65908597/193919977-a30a65fc-0756-4b32-93d5-2f4404e5f602.png)
@@ -43,7 +44,8 @@
 
 ![Adsız16](https://user-images.githubusercontent.com/65908597/193921029-17a38397-a73a-4337-8d7c-ce033cf3e75e.png)
 
-### Register Example
+### 2-) Register Example
+***
 
 ![Adsız17](https://user-images.githubusercontent.com/65908597/193923378-df972ff2-ccfd-43f1-9808-626ac5ba799b.png)
 
@@ -54,8 +56,8 @@
 ![Adsız19](https://user-images.githubusercontent.com/65908597/193925030-1acb1899-fec2-49ca-85d4-e5791258ccbf.png)
 
 
-### Register Shifted Register Example
-
+### 3-) Register Shifted Register Example
+***
 ![Adsız21](https://user-images.githubusercontent.com/65908597/193928310-3d48b916-6703-4df9-a24e-832e41077e3c.png)
 
 
