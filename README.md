@@ -31,7 +31,8 @@
 
 ![Adsız13](https://user-images.githubusercontent.com/65908597/193918476-82222ee4-654f-454a-adce-9b26d4e77678.png)
 
-# Data Processing Examples
+# Data Processing Examples![Adsız25](https://user-images.githubusercontent.com/65908597/194055709-782045c7-ed54-41dc-8360-16314afa6688.png)
+
 ### 1-) Immediate Example
 ***
 
@@ -66,7 +67,28 @@
 #### OUTPUTS
 ![Adsız22](https://user-images.githubusercontent.com/65908597/193928589-ea189ffb-4a5e-4419-a02b-142d7103ad64.png)
 
+# Memory Examples
+### 1-) Immediate Example
+***
+![Adsız23](https://user-images.githubusercontent.com/65908597/194053817-f5ebc79c-a355-4908-962b-3ee2599a6ad7.png)
 
+
+![Adsız24](https://user-images.githubusercontent.com/65908597/194055582-0d03f017-7b7a-4c04-af00-61837798cceb.png)
+#### OUTPUTS
+![Adsız25](https://user-images.githubusercontent.com/65908597/194055726-6dc0850d-488f-4cc2-a84c-2c6e354528f4.png)
+
+# Branch Examples
+### 1-)Branch and Link Example(forward)
+
+![Adsız28](https://user-images.githubusercontent.com/65908597/194057709-2ffa8d44-8158-49c7-bb19-a82543d3a8a7.png)
+
+
+#### OUTPUTS
+
+![Adsız27](https://user-images.githubusercontent.com/65908597/194057283-701eb2d7-3131-4d19-b8c2-08ffef5f8ed2.png)
+
+### 2-) Brach Example(back)
+![Adsız29](https://user-images.githubusercontent.com/65908597/194058191-899f1356-bea5-4bdd-a37a-129d7ed7c5ec.png)
 
 
 
