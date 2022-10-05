@@ -79,7 +79,7 @@
 
 # Branch Examples
 ### 1-)Branch and Link Example(forward)
-
+***
 ![Adsız28](https://user-images.githubusercontent.com/65908597/194057709-2ffa8d44-8158-49c7-bb19-a82543d3a8a7.png)
 
 
@@ -87,9 +87,12 @@
 
 ![Adsız27](https://user-images.githubusercontent.com/65908597/194057283-701eb2d7-3131-4d19-b8c2-08ffef5f8ed2.png)
 
-### 2-) Brach Example(back)
+### 2-) Branch and Link Example(back)
+***
 ![Adsız29](https://user-images.githubusercontent.com/65908597/194058191-899f1356-bea5-4bdd-a37a-129d7ed7c5ec.png)
 
+#### OUTPUTS
+![Adsız30](https://user-images.githubusercontent.com/65908597/194059085-afe25090-826e-446c-b864-043673925aa6.png)
 
 
 
