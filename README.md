@@ -31,7 +31,7 @@
 
 ![Adsız13](https://user-images.githubusercontent.com/65908597/193918476-82222ee4-654f-454a-adce-9b26d4e77678.png)
 
-# Data Processing Examples![Adsız25](https://user-images.githubusercontent.com/65908597/194055709-782045c7-ed54-41dc-8360-16314afa6688.png)
+# Data Processing Examples
 
 ### 1-) Immediate Example
 ***
