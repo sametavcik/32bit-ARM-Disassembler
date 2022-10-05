@@ -81,6 +81,7 @@
 ### 1-)Branch and Link Example(forward)
 ***
 ![Adsız28](https://user-images.githubusercontent.com/65908597/194057709-2ffa8d44-8158-49c7-bb19-a82543d3a8a7.png)
+![Adsız31](https://user-images.githubusercontent.com/65908597/194059574-70227c86-ed4d-4792-afeb-ca6879505103.png)
 
 
 #### OUTPUTS
